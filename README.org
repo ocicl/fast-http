@@ -1,0 +1,9 @@
+* fast-http
+
+A fast HTTP request/response parser for Common Lisp.
+
+|---------+------------------------------------------------|
+| source  | git:https://github.com/fukamachi/fast-http.git |
+| commit  | 502a377                                        |
+| systems | fast-http                                      |
+|---------+------------------------------------------------|
