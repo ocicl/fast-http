@@ -4,7 +4,7 @@ A fast HTTP request/response parser for Common Lisp.
 
 |---------+------------------------------------------------|
 | source  | git:https://github.com/fukamachi/fast-http.git |
-| commit  | 2232fc9                                        |
+| commit  | 03d440d                                        |
 | systems | fast-http                                      |
 |---------+------------------------------------------------|
  
